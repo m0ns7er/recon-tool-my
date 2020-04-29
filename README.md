@@ -1,2 +1,2 @@
 # recon-tool-my
-Recon Toll for Web Applications
+Recon Tool for Web Applications
